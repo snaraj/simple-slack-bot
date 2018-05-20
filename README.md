@@ -55,19 +55,18 @@ The bot is fairly simple, it has the following commands:
 
 hello: says hello and introduces himself
 commnads: shows the list of commands
-gettime: displays the current time and date
-getfirstrow: gets the first row of the specified file
-getfilesize: gets the file size of the specified file
-getfirstten: gets the first ten rows of the specified file
-getfilename: gets the file name of the specified file
-getfilelocation: gets the file location of the specified file
-Built With
+gettime: displays the current time and date.
+getfirstrow: gets the first row of the specified file.
+getfilesize: gets the file size of the specified file.
+getfirstten: gets the first ten rows of the specified file.
+getfilename: gets the file name of the specified file.
+getfilelocation: gets the file location of the specified file.
 
-Python 2.7.10
-Author
+Built With Python 2.7.10
 
+Author:
 Samuel Naranjo - Towson University
 
-Acknowledgments
+Acknowledgments:
 
 https://www.fullstackpython.com/blog/build-first-slack-bot-python.html https://www.stackoverflow.com https://api.slack.com/tutorials/tags/python http://kazuar.github.io/building-slack-game-part1/
